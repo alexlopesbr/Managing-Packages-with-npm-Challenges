@@ -1,6 +1,15 @@
 {
   "author": "Alexandre",
   "name": "fcc-learn-npm-package-json",
+  "description": "challenge Freecodecamp",
+  "keywords": [
+    "code newbie",
+    "npm",
+    "learning node",
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
   },
